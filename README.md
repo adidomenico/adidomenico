@@ -1,4 +1,4 @@
-# Hi, I'm Alessio Di Domenico 👋
+# Alessio Di Domenico 👋
 
 **Software Engineer @ Vonage** · Barcelona, Spain
 
@@ -8,7 +8,7 @@ SDKs and backend services for Vonage's Video API.
 
 ## 🚀 Currently working on
 
-- **Vonage Video API** — media processing & cloud automation; building AI agents that run inside live video sessions
+- **Vonage Video API** — media processing & cloud automation
 - **[AlgorArt](https://github.com/adidomenico/AlgorArt)** — crowdfunding dApp for creative work on Algorand
 
 ## 🛠️ Tech stack
@@ -29,10 +29,4 @@ SDKs and backend services for Vonage's Video API.
 ## 🗂️ Featured projects
 
 - **[AlgorArt](https://github.com/adidomenico/AlgorArt)** — Crowdfunding dApp for creative work on Algorand
-- **[cv](https://github.com/adidomenico/cv)** — My LaTeX curriculum vitae
 - **[University-Courses](https://github.com/adidomenico/University-Courses)** — Coursework and projects from my studies
-
-## 📫 Get in touch
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessio-di-domenico)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alessio.661@hotmail.it)
