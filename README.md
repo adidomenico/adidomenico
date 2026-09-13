@@ -8,7 +8,7 @@ Passionate about blockchain, web3 and digital assets.
 
 ## 🚀 Personal Projects
 
-- **[AlgorArt](https://github.com/adidomenico/AlgorArt)** — crowdfunding dApp for creative work on Algorand
+- **[AlgorArt](https://github.com/adidomenico/AlgorArt)** - crowdfunding dApp for creative work on Algorand
 
 ## 🛠️ Tech stack
 
