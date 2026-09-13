@@ -26,7 +26,9 @@ SDKs and backend services for Vonage's Video API.
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat&logo=blockchaindotcom&logoColor=white)
 
-## 🗂️ Featured projects
+## 🤝 Contributions
 
-- **[AlgorArt](https://github.com/adidomenico/AlgorArt)** — Crowdfunding dApp for creative work on Algorand
-- **[University-Courses](https://github.com/adidomenico/University-Courses)** — Coursework and projects from my studies
+- **[CAELESTIS-Project-EU/Workflows](https://github.com/CAELESTIS-Project-EU/Workflows)** — HPC workflow templates and phase implementations for an EU Horizon project
+- **[Vonage/vonage-video-connector-server-samples](https://github.com/Vonage/vonage-video-connector-server-samples)** — 9 PRs: video echo example, pipecat integrations, dependency bumps
+- **[Vonage/pipecat](https://github.com/Vonage/pipecat)** — 2 PRs: package release automation
+- **[pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat)** — package generation workflow
