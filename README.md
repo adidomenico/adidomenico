@@ -1,4 +1,4 @@
-# Alessio Di Domenico 👋
+# Alessio Di Domenico
 
 **Software Engineer @ Vonage** · Barcelona, Spain
 
