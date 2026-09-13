@@ -30,7 +30,6 @@ Passionate about blockchain, web3 and digital assets.
 - **[CAELESTIS-Project-EU/Workflows](https://github.com/CAELESTIS-Project-EU/Workflows)** - HPC workflow templates and phase implementations for an EU Horizon project
 - **[Vonage/vonage-video-connector-server-samples](https://github.com/Vonage/vonage-video-connector-server-samples)** - video echo example, pipecat integrations, dependency bumps
 - **[Vonage/pipecat](https://github.com/Vonage/pipecat)** - package release automation
-- **[pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat)** - package generation workflow
 
 [python]: https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white
 [javascript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black
